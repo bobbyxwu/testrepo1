@@ -1,1 +1,1 @@
-WIP
+Regression Analysis project for the boston bike data set.
