@@ -12,6 +12,7 @@ save each visualisation in the project dir
 
 
 
+model1: linear regression lasso reg
+model2: knn regressor 
 
-
-summary:
+WIP
